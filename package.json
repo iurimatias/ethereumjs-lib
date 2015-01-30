@@ -25,7 +25,7 @@
     "eslint": "^0.8.2",
     "ethereum-tests": "0.0.1",
     "ethereumjs-p2p": "iurimatias/ethereumjs-p2p.git",
-    "ethereumjs-util": "0.0.5",
+    "ethereumjs-util": "iurimatias/ethereumjs-util.git",
     "levelup": "^0.19.0",
     "memdown": "^0.10.2",
     "merkle-patricia-tree": "^0.1.22",
