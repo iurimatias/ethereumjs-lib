@@ -28,7 +28,7 @@
     "ethereumjs-util": "iurimatias/ethereumjs-util.git",
     "levelup": "^0.19.0",
     "memdown": "^0.10.2",
-    "merkle-patricia-tree": "^0.1.22",
+    "merkle-patricia-tree": "iurimatias/merkle-patricia-tree.git",
     "minimist": "^1.1.0",
     "mocha": "^2.1.0",
     "rlp": "0.0.12",
