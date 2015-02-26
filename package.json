@@ -33,7 +33,7 @@
     "mocha": "^2.1.0",
     "rlp": "0.0.12",
     "secp256k1": "0.0.13",
-    "uglifyjs": "^2.3.6",
+    "uglify-js": "^2.4.16",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
